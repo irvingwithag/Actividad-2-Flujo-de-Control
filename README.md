@@ -12,14 +12,16 @@ El usuario ingresa el sueldo mensual y el programa muestra:
 ## Ejemplos de ejecución
 
 ### Sueldo mensual: RD$20,000
-Sueldo anual: RD$240,000
-ISR anual: RD$0
+Sueldo anual: RD$240,000  
+ISR anual: RD$0  
+
+![Ejecución con 20,000](Captura de pantalla 2026-07-20 024259.png)
 
 ### Sueldo mensual: RD$50,000
-Sueldo anual: RD$600,000
-ISR anual: RD$27,567
+Sueldo anual: RD$600,000  
+ISR anual: RD$27,567  
 
-
+![Ejecución con 50,000](Captura de pantalla 2026-07-20 024330.png)
 
 ---
 
